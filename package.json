@@ -9,7 +9,7 @@
     "test:watch": "jest --config=testConfig/jest.config.json --watch"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "babel-preset-stage-1": "^6.1.18",
     "body-parser": "1.15.2",
     "cors": "2.8.1",
